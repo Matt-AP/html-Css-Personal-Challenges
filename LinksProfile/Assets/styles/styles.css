@@ -1,4 +1,6 @@
+/* Styles Sheet */
 
+/* body General Styles: These are only changing the background color and the fonts not too much */
 body{
     background-color: #121212;
     color: #ffffff;
@@ -6,6 +8,8 @@ body{
     margin: 0;
     padding: 0;
 }
+
+/* Container Styles: This is the main container for the profile card */
 .container{
     background-color: #1f1f1f;
     margin: 400px 300px 0px 300px;
@@ -15,6 +19,7 @@ body{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+/* Profile Picture Styles: This is the profile picture styles */
 .profile-picture{
     width: 150px;
     height: 150px;
@@ -22,6 +27,7 @@ body{
     margin: 20px 0px 20px 117px;
 }
 
+/* Profile Name Styles: This is the profile name styles */
 .profile-name{
     font-size: 24px;
     font-weight: bold;
@@ -29,6 +35,7 @@ body{
     margin: 10px 0px 10px 0px;
 }
 
+/* Country Styles: This is the country styles */
 .country{
     font-size: 18px;
     text-align: center;
@@ -36,12 +43,14 @@ body{
     margin: 10px 0px 20px 0px;
 }
 
+/* Profile Description Styles: This is the profile description styles */
 .profile-description{
     font-size: 13px;
     text-align: center;
     margin: 30px 0px 30px 0px;
 }
 
+/* Button Styles: This is the button styles */
 .button{
     background-color: #333333;
     color: #ffffff;
