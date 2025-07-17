@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #de3e3e;
+}
+
+.card_one{
+    background-color: #e28525;
+    color: #fff;
+    margin: 200px 1180px 0px 290px;
+    padding: 50px 30px 30px 30px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.icon{
+    width: 75px;
+    height: 50px;
+    margin-left: 25px;
+}
+
+.card_one h2{
+    font-size: 30px;
+    padding: 20px 0px 10px 16px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card_one p{
+    font-size: 16px;
+    line-height: 30px;
+    padding: 20px 120px 80px 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+.card_one button{
+    background-color: #fff;
+    color: #e28525;
+    border: none;
+    border-radius: 30px;
+    padding: 15px 45px 15px 45px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+/* Card Number Two */
+
+.card_two{
+    background-color: #016972;
+    color: #fff;
+    margin: -520px 750px 20px 670px;
+    padding: 50px 60px 80px 30px;
+}
+
+.icon{
+    width: 75px;
+    height: 50px;
+    margin-left: 25px;
+}
+
+.card_two h2{
+    font-size: 30px;
+    padding: 20px 0px 10px 16px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card_two p{
+    font-size: 16px;
+    line-height: 30px;
+    padding: 20px 10px 80px 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+.card_two button{
+    background-color: #fff;
+    color: #016972;
+    border: none;
+    border-radius: 30px;
+    padding: 15px 45px 15px 45px;
+    margin-left: 15px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Card Number Three */
+
+.card_three{
+    background-color: #00403f;
+    color: #fff;
+    margin: -540px 350px 1020px 1100px;
+    padding: 50px 60px 50px 30px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.icon{
+    width: 75px;
+    height: 50px;
+    margin-left: 25px;
+}
+
+.card_three h2{
+    font-size: 30px;
+    padding: 20px 0px 10px 16px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card_three p{
+    font-size: 16px;
+    line-height: 30px;
+    padding: 20px 10px 80px 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+.card_three button{
+    background-color: #fff;
+    color: #00403f;
+    border: none;
+    border-radius: 30px;
+    padding: 15px 45px 15px 45px;
+    margin-left: 15px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
